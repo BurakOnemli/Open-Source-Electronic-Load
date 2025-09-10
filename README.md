@@ -27,8 +27,8 @@ This repository provides the design, source code, and documentation for a custom
 
 ## Dependencies
 
-- A C toolchain for the supported microcontroller
-- PCB design software (e.g., KiCad or Eagle)
+- STM32CubeIDE toolchain for programming the microcontroller
+- KiCad for PCB design 
 - Standard electronics lab tools for assembly
 
 ## Contributing
@@ -42,7 +42,7 @@ Before contributing, please review any guidelines in the repository.
 
 ## License
 
-This project is open-source. Please see the repository for license details (if added).
+This project is open-source. Please see the repository for license details.
 
 ## More Information
 
