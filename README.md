@@ -2,6 +2,9 @@
 
 Welcome to the **Open-Source Electronic Load** project!
 
+![WhatsApp Image 2025-09-10 at 20 56 23](https://github.com/user-attachments/assets/3f85acfd-5183-4f1e-8eb5-ae181db9c803)
+
+
 This repository provides the design, source code, and documentation for a customizable, open-source electronic load. The project is developed in C and aims to offer a platform for electronics enthusiasts, students, and engineers who need a programmable load for testing power supplies, batteries, or other electronic circuits.
 
 ## Features
